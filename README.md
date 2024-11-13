@@ -33,7 +33,7 @@ To get started, clone the repository and install the required dependencies.
 1. Clone the repository:
     ```bash
     git clone <repository_url>
-    cd CureData
+    cd CharacterBio
     ```
 
 2. Create and activate a virtual environment (optional but recommended):
